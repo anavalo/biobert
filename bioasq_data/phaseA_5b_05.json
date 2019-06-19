@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "Is tirilazad effective for treatment of aneurysmal subarachnoid haemorrhage?", 
+      "type": "yesno", 
+      "id": "58ec72a4eda5a5767200000f"
+    }, 
+    {
+      "body": "Which protein is the main marker of Cajal bodies?", 
+      "type": "factoid", 
+      "id": "58eb9542eda5a57672000007"
+    }, 
+    {
+      "body": "Are alterations in ultraconserved elements associated with colorectal adenocarcinoma?", 
+      "type": "yesno", 
+      "id": "587e1e57fc7e8dd84f000003"
+    }, 
+    {
+      "body": "Which mutated gene causes the Ch\u00e9diak\u2013Higashi Syndrome?", 
+      "type": "factoid", 
+      "id": "58cbd0d502b8c60953000035"
+    }, 
+    {
+      "body": "The pathogen Fusarium graminearum affects what type of plant species?", 
+      "type": "factoid", 
+      "id": "58f3ca5c70f9fc6f0f00000d"
+    }, 
+    {
+      "body": "List viral vectors used in gene therapy.", 
+      "type": "list", 
+      "id": "58ea59273e8b6dc87c000012"
+    }, 
+    {
+      "body": "Is dexamethasone recommended for treatment of intracerebral hemorrhage?", 
+      "type": "yesno", 
+      "id": "58ec5ffaeda5a5767200000a"
+    }, 
+    {
+      "body": "What happens upon disruption of a TAD boundary?", 
+      "type": "summary", 
+      "id": "58eb984aeda5a57672000008"
+    }, 
+    {
+      "body": "Which R package could be used for the identification of pediatric brain tumors?", 
+      "type": "factoid", 
+      "id": "587e2300fc7e8dd84f000004"
+    }, 
+    {
+      "body": "List the classical symptoms of the Moschcowitz syndrome (Thrombotic thrombocytopenic purpura).", 
+      "type": "list", 
+      "id": "58dd07488acda34529000025"
+    }, 
+    {
+      "body": "What is the indication for Mirabegron?", 
+      "type": "factoid", 
+      "id": "58f4b2f070f9fc6f0f000012"
+    }, 
+    {
+      "body": "Is skin color affected by variations of the SLC24A5 gene?", 
+      "type": "yesno", 
+      "id": "58ef9ff170f9fc6f0f000002"
+    }, 
+    {
+      "body": "Is airplane stroke syndrome a common disease.", 
+      "type": "yesno", 
+      "id": "58ec613ceda5a5767200000b"
+    }, 
+    {
+      "body": "Which class of genes are mutated in Diamond Blackfan Anemia patients?", 
+      "type": "factoid", 
+      "id": "58e74bff3e8b6dc87c000004"
+    }, 
+    {
+      "body": "Which R / bioconductor package is used for enrichment analysis of genomic regions?", 
+      "type": "factoid", 
+      "id": "587e3e302420191125000002"
+    }, 
+    {
+      "body": "List the human acrocentric chromosomes that are involved in Robertsonian translocation.", 
+      "type": "list", 
+      "id": "58da14178acda34529000011"
+    }, 
+    {
+      "body": "How are Arboviruses transmitted?", 
+      "type": "factoid", 
+      "id": "58f4b85f70f9fc6f0f000015"
+    }, 
+    {
+      "body": "What is the link between TB (Turbeculosis) infection and TNFa inhibition?", 
+      "type": "summary", 
+      "id": "58ea521d3e8b6dc87c00000f"
+    }, 
+    {
+      "body": "Describe the mechanism of action of Bezlotoxumab?", 
+      "type": "summary", 
+      "id": "588fa24fed9bbee70d000005"
+    }, 
+    {
+      "body": "Which is the major RNA editing enzyme in Drosophila melanogaster?", 
+      "type": "factoid", 
+      "id": "58e9e7aa3e8b6dc87c00000d"
+    }, 
+    {
+      "body": "What is the CEGA catalog?", 
+      "type": "summary", 
+      "id": "5880a46d3d0145644d000001"
+    }, 
+    {
+      "body": "Which protein is associated with hyperemesis gravidarum during pregrancy?", 
+      "type": "factoid", 
+      "id": "58da1aa08acda34529000012"
+    }, 
+    {
+      "body": "Is hydroxyurea usually used to treated infectious disease?", 
+      "type": "yesno", 
+      "id": "58dbbdac8acda3452900001e"
+    }, 
+    {
+      "body": "What is magnetoreception?", 
+      "type": "summary", 
+      "id": "58ea6c3eeda5a57672000001"
+    }, 
+    {
+      "body": "Can acupuncture cause spinal epidural hematoma?", 
+      "type": "yesno", 
+      "id": "5890e762621ea6ff7e000005"
+    }, 
+    {
+      "body": "Which bacterium has the smallest genome in base pairs yet found?", 
+      "type": "factoid", 
+      "id": "58e9f0ba3e8b6dc87c00000e"
+    }, 
+    {
+      "body": "Describe the usefulness of CAMUR in The Cancer Genome Atlas (TCGA)", 
+      "type": "summary", 
+      "id": "5880b036c872c95565000002"
+    }, 
+    {
+      "body": "Is edema a symptom of nephrotic syndrome?", 
+      "type": "yesno", 
+      "id": "58da270d8acda34529000013"
+    }, 
+    {
+      "body": "Angelman syndrome is associated with deletion of a part of Chromosome 15 but if the deletion occurs in the paternally inherited chromosome 15, what is the disease?", 
+      "type": "factoid", 
+      "id": "58e3d9ab3e8b6dc87c000002"
+    }, 
+    {
+      "body": "What is the phenotype of people carrying mutations in the gene PRDM12?", 
+      "type": "factoid", 
+      "id": "58ea7248eda5a57672000002"
+    }, 
+    {
+      "body": "Is there an association between Histone H3.3 mutations and glioma?", 
+      "type": "yesno", 
+      "id": "5890ede0621ea6ff7e000007"
+    }, 
+    {
+      "body": "Which cellular function is associated with transcription factors forkhead 1 and 2 (Fkh1 and Fkh2)?", 
+      "type": "factoid", 
+      "id": "58eb4ce7eda5a57672000004"
+    }, 
+    {
+      "body": "What is the role of the Ctf4-interacting-peptide or CIP-box?", 
+      "type": "summary", 
+      "id": "58815f26713cbdfd3d000002"
+    }, 
+    {
+      "body": "Which markers are screened with the triple test for the detection of syndromes in fetus?", 
+      "type": "list", 
+      "id": "58da2a348acda34529000014"
+    }, 
+    {
+      "body": "What type of genome, (RNA or DNA, double stranded single stranded) is found in the the virus that causes blue tongue disease?", 
+      "type": "factoid", 
+      "id": "58f3c4b970f9fc6f0f00000a"
+    }, 
+    {
+      "body": "What is a \"chemobrain\"?", 
+      "type": "factoid", 
+      "id": "58efa1b870f9fc6f0f000003"
+    }, 
+    {
+      "body": "Borden classification is used for which disease?", 
+      "type": "factoid", 
+      "id": "5890fde5621ea6ff7e000009"
+    }, 
+    {
+      "body": "Which effects create neighborhoods of transcriptional regulation in eukaryotes?", 
+      "type": "factoid", 
+      "id": "58c27b7102b8c60953000021"
+    }, 
+    {
+      "body": "Is Pfh1 a component of the replisome?", 
+      "type": "yesno", 
+      "id": "5881e8e8713cbdfd3d000003"
+    }, 
+    {
+      "body": "Which are the triad symptoms of pheochromocytoma?", 
+      "type": "list", 
+      "id": "58da5b588acda34529000015"
+    }, 
+    {
+      "body": "What is the function of mTOR?", 
+      "type": "summary", 
+      "id": "58f3c8f470f9fc6f0f00000c"
+    }, 
+    {
+      "body": "What is the indication for valbenazine?", 
+      "type": "factoid", 
+      "id": "58f0b0c070f9fc6f0f000006"
+    }, 
+    {
+      "body": "List features of the Kaufman Oculocerebrofacial Syndrome.", 
+      "type": "list", 
+      "id": "5895b7157d9090f353000009"
+    }, 
+    {
+      "body": "How many times is CLAST faster than BLAST?", 
+      "type": "factoid", 
+      "id": "58f6295a70f9fc6f0f000019"
+    }, 
+    {
+      "body": "What is the role of DNA Repair Cofactors ATMIN and NBS1?", 
+      "type": "factoid", 
+      "id": "58853c56e56acf5176000018"
+    }, 
+    {
+      "body": "List the types of the Cardiorenal syndrome (CRS) according to the five-part classification system.", 
+      "type": "list", 
+      "id": "58da5dc58acda34529000016"
+    }, 
+    {
+      "body": "The MMR vaccine protects against what 3 viruses?", 
+      "type": "list", 
+      "id": "58f4b73b70f9fc6f0f000014"
+    }, 
+    {
+      "body": "What is a miR?", 
+      "type": "factoid", 
+      "id": "58f0b1d670f9fc6f0f000007"
+    }, 
+    {
+      "body": "List cardinal features of the Triple A syndrome.", 
+      "type": "list", 
+      "id": "5895bfdc7d9090f35300000c"
+    }, 
+    {
+      "body": "Do circRNAs remain untranslated?", 
+      "type": "yesno", 
+      "id": "58dd054c8acda34529000024"
+    }, 
+    {
+      "body": "Describe the applicability of Basset in the context of deep learning", 
+      "type": "summary", 
+      "id": "5891c2e7621ea6ff7e00000f"
+    }, 
+    {
+      "body": "Does the Abelson-related gene (ARG) gene encode for a serine kinase?", 
+      "type": "yesno", 
+      "id": "58db94948acda34529000017"
+    }, 
+    {
+      "body": "What organism causes tularemia?", 
+      "type": "factoid", 
+      "id": "58f4b9d470f9fc6f0f000016"
+    }, 
+    {
+      "body": "Is Prochlorococcus the most abundant photosynthetic organism?", 
+      "type": "yesno", 
+      "id": "58ea659c3e8b6dc87c000013"
+    }, 
+    {
+      "body": "List 3 features of IRVAN syndrome.", 
+      "type": "list", 
+      "id": "5895dd6a7d9090f35300000f"
+    }, 
+    {
+      "body": "What is the biological function of the SRY circular RNA (circRNA)?", 
+      "type": "summary", 
+      "id": "58dd0c608acda34529000026"
+    }, 
+    {
+      "body": "Which server is used for generating modes of pseudo components of DNA, RNA and protein sequences?", 
+      "type": "factoid", 
+      "id": "589317e849702f2e01000005"
+    }, 
+    {
+      "body": "Which are the Proprotein Convertase Subtilisin Kexin 9 (PCSK9) inhibitors that are FDA approved?", 
+      "type": "list", 
+      "id": "58dbb3f18acda34529000019"
+    }, 
+    {
+      "body": "What is Uhl's anomaly?", 
+      "type": "summary", 
+      "id": "58f4c22170f9fc6f0f000018"
+    }, 
+    {
+      "body": "Is dupilumab an antibody targeting the IL-1 receptor?", 
+      "type": "yesno", 
+      "id": "58df5efbc784871774000001"
+    }, 
+    {
+      "body": "List active ingredients of the Stribild polypill.", 
+      "type": "list", 
+      "id": "5895dfc97d9090f353000010"
+    }, 
+    {
+      "body": "Which are the most common methods for circular RNA detection from RNASeq?", 
+      "type": "list", 
+      "id": "58e640573e8b6dc87c000003"
+    }, 
+    {
+      "body": "What is MPE-seq?", 
+      "type": "summary", 
+      "id": "58946d6e7d9090f353000005"
+    }, 
+    {
+      "body": "What is the role of TAD protein domain?", 
+      "type": "factoid", 
+      "id": "58dcb47c8acda34529000020"
+    }, 
+    {
+      "body": "Is autophagy the process where bacteria ingest viral particles?", 
+      "type": "yesno", 
+      "id": "58dd2cb08acda34529000029"
+    }, 
+    {
+      "body": "What is the cause of Tardive dyskinesia?", 
+      "type": "factoid", 
+      "id": "58efa36d70f9fc6f0f000004"
+    }, 
+    {
+      "body": "List clinical features of the IMAGe syndrome.", 
+      "type": "list", 
+      "id": "5895e4637d9090f353000012"
+    }, 
+    {
+      "body": "Which gene mutations are predictive of response to anti-TNF therapy in Rheumatoid Arthritis patients?", 
+      "type": "list", 
+      "id": "58e7a1393e8b6dc87c00000b"
+    }, 
+    {
+      "body": "Which method is used for prediction of novel microRNA genes in cancer-associated genomic regions?", 
+      "type": "factoid", 
+      "id": "5895f18ce370baff39000001"
+    }, 
+    {
+      "body": "Does the histone chaperone ASF1 interact with histones H1/H2?", 
+      "type": "yesno", 
+      "id": "58dcbb8c8acda34529000021"
+    }, 
+    {
+      "body": "Is Hepatic mesenchymal hamartoma usually a malignant tumor?", 
+      "type": "yesno", 
+      "id": "58f3cd1470f9fc6f0f00000e"
+    }, 
+    {
+      "body": "Can aspirin be used in cancer prevention?", 
+      "type": "summary", 
+      "id": "58efa66070f9fc6f0f000005"
+    }, 
+    {
+      "body": "List clinical features of EEM syndrome.", 
+      "type": "list", 
+      "id": "5895e9977d9090f353000013"
+    }, 
+    {
+      "body": "From which cell type is leptin secreted?", 
+      "type": "factoid", 
+      "id": "58ee0dd5eda5a57672000013"
+    }, 
+    {
+      "body": "Which tool is used for the identification of recurrent variants in noncoding regions?", 
+      "type": "factoid", 
+      "id": "589635dd78275d0c4a000009"
+    }, 
+    {
+      "body": "Which are the components of the pre-replication complex (pre-RC) in eukaryotes?", 
+      "type": "list", 
+      "id": "58dcecf58acda34529000023"
+    }, 
+    {
+      "body": "What body parts are also known as phalanges?", 
+      "type": "factoid", 
+      "id": "58f3c62970f9fc6f0f00000b"
+    }, 
+    {
+      "body": "Are selenium supplements recommended for prostate cancer prevention?", 
+      "type": "yesno", 
+      "id": "58f0b40d70f9fc6f0f000008"
+    }, 
+    {
+      "body": "Which disease is treated with lucinactant?", 
+      "type": "factoid", 
+      "id": "5896271178275d0c4a000004"
+    }, 
+    {
+      "body": "Which proteins control the degradation of cryptic unstable transcripts (CUTs) in yeast?", 
+      "type": "list", 
+      "id": "58adca6d9ef3c34033000007"
+    }, 
+    {
+      "body": "Is there any involvement of L1 retrotransposition in the Rett syndrome?", 
+      "type": "yesno", 
+      "id": "58965a4178275d0c4a00000e"
+    }, 
+    {
+      "body": "What is the inheritance of hypophosphatemic rickets?", 
+      "type": "list", 
+      "id": "58b6d6f322d300530900000f"
+    }, 
+    {
+      "body": "Which mushroom is poisonous, Amanita phalloides or Agaricus Bisporus", 
+      "type": "factoid", 
+      "id": "58f4b1a170f9fc6f0f000010"
+    }, 
+    {
+      "body": "Is Downs syndrome associated with decreased risk of leukemia?", 
+      "type": "yesno", 
+      "id": "58f3d85170f9fc6f0f00000f"
+    }, 
+    {
+      "body": "Which enzyme is inhibited by ixazomib?", 
+      "type": "factoid", 
+      "id": "589630f378275d0c4a000007"
+    }, 
+    {
+      "body": "Which is the most common gene signature in Rheumatoid Arthritis patients?", 
+      "type": "factoid", 
+      "id": "58e7902b3e8b6dc87c000007"
+    }, 
+    {
+      "body": "What is PANTHER-PSEP?", 
+      "type": "summary", 
+      "id": "58965c5578275d0c4a00000f"
+    }, 
+    {
+      "body": "Does PCSK9 (Proprotein convertase subtilisin/kexin type 9) binds with HDL-receptor (HDL-R)?", 
+      "type": "yesno", 
+      "id": "58db9aa28acda34529000018"
+    }, 
+    {
+      "body": "Hy's law measures failure for what organ?", 
+      "type": "factoid", 
+      "id": "58f4b25e70f9fc6f0f000011"
+    }, 
+    {
+      "body": "Is apremilast effective for psoriatic arthritis?", 
+      "type": "yesno", 
+      "id": "5896e22078275d0c4a000014"
+    }, 
+    {
+      "body": "Which NGS alignment software implement the Burrows-Wheeler Transform?", 
+      "type": "list", 
+      "id": "58eb2887eda5a57672000003"
+    }, 
+    {
+      "body": "Is there any role of TBR1 in autism?", 
+      "type": "yesno", 
+      "id": "58965ed478275d0c4a000010"
+    }, 
+    {
+      "body": "What is the role of the MCM2-7 complex?", 
+      "type": "summary", 
+      "id": "58dcd0338acda34529000022"
+    }, 
+    {
+      "body": "What is the function of the exosome?", 
+      "type": "summary", 
+      "id": "58f4b3ee70f9fc6f0f000013"
+    }, 
+    {
+      "body": "Is intraoperative radiotherapy used for treatment of glioblastoma?", 
+      "type": "yesno", 
+      "id": "589a245478275d0c4a000022"
+    }, 
+    {
+      "body": "In which fields of DNA sequencing are Bloom filters applied?", 
+      "type": "list", 
+      "id": "58eb6061eda5a57672000005"
+    }, 
+    {
+      "body": "What is the function of lncRNA?", 
+      "type": "summary", 
+      "id": "58f4c09f70f9fc6f0f000017"
+    }, 
+    {
+      "body": "Which 2 medications are included in the Qsymia pill?", 
+      "type": "list", 
+      "id": "589a246c78275d0c4a000032"
+    }, 
+    {
+      "body": "Is apremilast effective for psoriasis?", 
+      "type": "yesno", 
+      "id": "589a246d78275d0c4a000033"
+    }, 
+    {
+      "body": "Is sonidegib effective for basal cell carcinoma?", 
+      "type": "yesno", 
+      "id": "589a246f78275d0c4a000034"
+    }
+  ]
+}

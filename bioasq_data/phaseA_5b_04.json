@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "What is the mechanism of action of verubecestat?", 
+      "type": "summary", 
+      "id": "589a246a78275d0c4a000031"
+    }, 
+    {
+      "body": "How are triple negative gliomas characterized?", 
+      "type": "summary", 
+      "id": "58bac5e822d3005309000012"
+    }, 
+    {
+      "body": "What is the link between Ctf4 and Chl1 in cohesion establishment?", 
+      "type": "summary", 
+      "id": "587f8324d8d850a152000003"
+    }, 
+    {
+      "body": "Which are the symptoms of glucose-6-phosphate dehydrogenase (G6PD) deficiency?", 
+      "type": "list", 
+      "id": "58c6665602b8c60953000024"
+    }, 
+    {
+      "body": "Are mutations in the C9orf72  gene associated with macular degeneration?", 
+      "type": "yesno", 
+      "id": "58e11bf76fddd3e83e00000c"
+    }, 
+    {
+      "body": "Is the number of described human nuclear mutations less than 50000?", 
+      "type": "yesno", 
+      "id": "58e26ede6fddd3e83e000015"
+    }, 
+    {
+      "body": "Andexanet Alfa is an antidote of which clotting factor inhibitors?", 
+      "type": "factoid", 
+      "id": "5880b073c872c95565000003"
+    }, 
+    {
+      "body": "Are hepadnaviral minichromosomes free of nucleosomes?", 
+      "type": "yesno", 
+      "id": "58e3d1743e8b6dc87c000001"
+    }, 
+    {
+      "body": "Which technique led to the elucidation of the role of HOXD10 in regulating lymphatic endothelial responses to VEGF-C?", 
+      "type": "factoid", 
+      "id": "5881f627713cbdfd3d000005"
+    }, 
+    {
+      "body": "Where are the unipolar brush cells localized?", 
+      "type": "summary", 
+      "id": "58c67bf302b8c60953000026"
+    }, 
+    {
+      "body": "What is  Achondroplasia?", 
+      "type": "factoid", 
+      "id": "58cefcfb8acda34529000002"
+    }, 
+    {
+      "body": "Is osteocrin expressed exclusively in the bone?", 
+      "type": "yesno", 
+      "id": "58df73bd38f7f3e93a000001"
+    }, 
+    {
+      "body": "Signaling of which pathways is inhibited by Dupilumab?", 
+      "type": "list", 
+      "id": "5880b2a6c872c95565000004"
+    }, 
+    {
+      "body": "Which histone mutations have been associated with pediatric gliomas?", 
+      "type": "list", 
+      "id": "58a6c94860087bc10a00002a"
+    }, 
+    {
+      "body": "What do nerve-associated peripheral glial progenitors give rise to?", 
+      "type": "factoid", 
+      "id": "5881f9b65bf093691f000001"
+    }, 
+    {
+      "body": "How is primary intestinal lymphangiectasia (PIL) caused?", 
+      "type": "summary", 
+      "id": "58ca5cba02b8c6095300002b"
+    }, 
+    {
+      "body": "Is Lennox-Gastaut Syndrome usually diagnosed in older adults?", 
+      "type": "yesno", 
+      "id": "58dbb4f08acda3452900001a"
+    }, 
+    {
+      "body": "Is Musclin a secretory peptide?", 
+      "type": "yesno", 
+      "id": "58df779d6fddd3e83e000001"
+    }, 
+    {
+      "body": "Which treatment methods were compared in the EXCEL Trial?", 
+      "type": "list", 
+      "id": "5880b583c872c95565000005"
+    }, 
+    {
+      "body": "Which driver mutations have been identified for Diffuse Intrinsic Pontine Glioma (DIPG)?", 
+      "type": "list", 
+      "id": "58add1d79ef3c34033000008"
+    }, 
+    {
+      "body": "Does Jarid2 play a role in early embryo development?", 
+      "type": "yesno", 
+      "id": "5883781b2305cd7e21000001"
+    }, 
+    {
+      "body": "Is PUVA therapy indicated for eczema treatment?", 
+      "type": "yesno", 
+      "id": "58bfe70e02b8c60953000019"
+    }, 
+    {
+      "body": "Is Cri Du Chat associated with an expansion of a repeat with in the gene found on chromosome 5?", 
+      "type": "yesno", 
+      "id": "58dbba438acda3452900001c"
+    }, 
+    {
+      "body": "What is the results of inactivated ANGPLT3?", 
+      "type": "factoid", 
+      "id": "58dfd70c6fddd3e83e000002"
+    }, 
+    {
+      "body": "Which disease is treated with semaglutide?", 
+      "type": "factoid", 
+      "id": "5880c42fc872c95565000008"
+    }, 
+    {
+      "body": "Which proteins does the yeast Cleavage and Polyadenylation Complex contain?", 
+      "type": "list", 
+      "id": "58add7699ef3c34033000009"
+    }, 
+    {
+      "body": "What is DECKO?", 
+      "type": "summary", 
+      "id": "58837ba62305cd7e21000002"
+    }, 
+    {
+      "body": "What is the inheritance of the glucose-6-phosphate dehydrogenase (G6PD) deficiency?", 
+      "type": "factoid", 
+      "id": "58c6635f02b8c60953000023"
+    }, 
+    {
+      "body": "Is Beta-Thalassemia is associated with a mutation or deletion of the gene that codes for alpha globin?", 
+      "type": "yesno", 
+      "id": "58dbbbf08acda3452900001d"
+    }, 
+    {
+      "body": "List genes associated with hypolipidemia.", 
+      "type": "list", 
+      "id": "58dfd83a6fddd3e83e000003"
+    }, 
+    {
+      "body": "Which enzyme is inhibited by ribociclib?", 
+      "type": "factoid", 
+      "id": "5880dba9c872c95565000009"
+    }, 
+    {
+      "body": "What is the function of the Mis18 protein?", 
+      "type": "summary", 
+      "id": "58af11e67125859353000001"
+    }, 
+    {
+      "body": "What are the roles of Smyd3 in zebrafish?", 
+      "type": "list", 
+      "id": "5883a25d7ffa0d4374000001"
+    }, 
+    {
+      "body": "Do brown fat cells produce heat?", 
+      "type": "yesno", 
+      "id": "58ca906a02b8c6095300002e"
+    }, 
+    {
+      "body": "What is ectopia lentis?", 
+      "type": "summary", 
+      "id": "58dc2c698acda3452900001f"
+    }, 
+    {
+      "body": "Has the gorilla genome been determined?", 
+      "type": "yesno", 
+      "id": "58dfec676fddd3e83e000006"
+    }, 
+    {
+      "body": "What is the mechanism of action of Romosozumab?", 
+      "type": "summary", 
+      "id": "5880e089c872c9556500000b"
+    }, 
+    {
+      "body": "How does Ssu72 mediate gene looping?", 
+      "type": "summary", 
+      "id": "58af14ae717cd3f655000001"
+    }, 
+    {
+      "body": "Is POLD3 essential for mouse development?", 
+      "type": "yesno", 
+      "id": "5883b8e6e56acf5176000002"
+    }, 
+    {
+      "body": "What is the role of peptide aptamers?", 
+      "type": "summary", 
+      "id": "58d131218acda34529000005"
+    }, 
+    {
+      "body": "What tissue is commonly affected in Marfan's syndrome", 
+      "type": "factoid", 
+      "id": "58dd0dde8acda34529000027"
+    }, 
+    {
+      "body": "Are cutaneous porphyrias inherited with a recessive pattern?", 
+      "type": "yesno", 
+      "id": "58e11b9b6fddd3e83e00000b"
+    }, 
+    {
+      "body": "Which disease is treated with ZMapp?", 
+      "type": "factoid", 
+      "id": "5880e417713cbdfd3d000001"
+    }, 
+    {
+      "body": "What happens to H2AX upon DNA bouble strand breaks?", 
+      "type": "factoid", 
+      "id": "58af16ea717cd3f655000002"
+    }, 
+    {
+      "body": "What is the effect of the direct interaction of Ikaros and Foxp1 in B-lymphocytes?", 
+      "type": "factoid", 
+      "id": "58853667e56acf5176000015"
+    }, 
+    {
+      "body": "What is a mimotope vaccine?", 
+      "type": "summary", 
+      "id": "58d388958acda34529000006"
+    }, 
+    {
+      "body": "Is Cryptococcus neoformans a frequent cause of isolated skin infections in immunocompromised individuals", 
+      "type": "yesno", 
+      "id": "58e120036fddd3e83e00000d"
+    }, 
+    {
+      "body": "What are sirtuins?", 
+      "type": "summary", 
+      "id": "58e2651c6fddd3e83e000013"
+    }, 
+    {
+      "body": "Is Obeticholic Acid used for treatment of Primary Biliary Cholangitis?", 
+      "type": "yesno", 
+      "id": "5884722ee56acf5176000006"
+    }, 
+    {
+      "body": "Which is the main abnormality that arises with Sox9 locus duplication?", 
+      "type": "factoid", 
+      "id": "58af1cb3717cd3f655000003"
+    }, 
+    {
+      "body": "To which disease does the loss of CD28 expression by liver-infiltrating T cells contribute?", 
+      "type": "factoid", 
+      "id": "58853922e56acf5176000016"
+    }, 
+    {
+      "body": "Can methylenetetrahydrofolate reductase (MTHFR) gene mutations cause homocystinuria?", 
+      "type": "yesno", 
+      "id": "58d8d0cc8acda34529000008"
+    }, 
+    {
+      "body": "Does the word ovine refers to goats?", 
+      "type": "yesno", 
+      "id": "58e186fd6fddd3e83e00000f"
+    }, 
+    {
+      "body": "What is the indication of ARCALYST?", 
+      "type": "factoid", 
+      "id": "58df47f08acda3452900002f"
+    }, 
+    {
+      "body": "Can valproic acid prolong survival of glioblastoma patients?", 
+      "type": "yesno", 
+      "id": "5884755ce56acf5176000007"
+    }, 
+    {
+      "body": "Does the TOP2B/TOP2A expression ratio affect the response to AML chemotherapy?", 
+      "type": "yesno", 
+      "id": "58b67fae22d3005309000009"
+    }, 
+    {
+      "body": "Which syndrome is caused by deletion of Pds5b in mice?", 
+      "type": "factoid", 
+      "id": "5889eb503b87a8a73800000b"
+    }, 
+    {
+      "body": "Which mutated genes are associated with isolated ectopia lentis?", 
+      "type": "list", 
+      "id": "58d8d8108acda34529000009"
+    }, 
+    {
+      "body": "What is the genus for the common European honey bee?", 
+      "type": "factoid", 
+      "id": "58e23ec66fddd3e83e000010"
+    }, 
+    {
+      "body": "What is the enzymatic activity of PARL?", 
+      "type": "factoid", 
+      "id": "58dfe6b56fddd3e83e000004"
+    }, 
+    {
+      "body": "Can glyburide reduce cerebral edema?", 
+      "type": "yesno", 
+      "id": "588482f5e56acf517600000a"
+    }, 
+    {
+      "body": "Which miRNA is targeted by SRY/Sox9?", 
+      "type": "factoid", 
+      "id": "58de18e48acda3452900002a"
+    }, 
+    {
+      "body": "What is the applicability of the No Promoter Left Behind method?", 
+      "type": "factoid", 
+      "id": "588f341594c1512c50000002"
+    }, 
+    {
+      "body": "Which gene mutations cause the Marfan syndrome?", 
+      "type": "factoid", 
+      "id": "58d8e6818acda3452900000a"
+    }, 
+    {
+      "body": "What is the function of gasdermin D?", 
+      "type": "summary", 
+      "id": "58e2467a6fddd3e83e000012"
+    }, 
+    {
+      "body": "What is the Genome 10K Project?", 
+      "type": "summary", 
+      "id": "58dff3f06fddd3e83e000007"
+    }, 
+    {
+      "body": "Is vemurafenib used for thyroid cancer?", 
+      "type": "yesno", 
+      "id": "58848ea5e56acf517600000e"
+    }, 
+    {
+      "body": "Which gene controls the expression of GATA-1 isoforms?", 
+      "type": "factoid", 
+      "id": "58e75d483e8b6dc87c000005"
+    }, 
+    {
+      "body": "What is MIRA-seq?", 
+      "type": "summary", 
+      "id": "588fd7cded9bbee70d000009"
+    }, 
+    {
+      "body": "Which are the clinical symptoms of left ventricular noncompaction?", 
+      "type": "list", 
+      "id": "58d8e9bd8acda3452900000b"
+    }, 
+    {
+      "body": "What is the Glasgow Coma score?", 
+      "type": "summary", 
+      "id": "58cdbbd102b8c60953000045"
+    }, 
+    {
+      "body": "Is it feasible to obtain DNA read lengths that exceed 30 Kb?", 
+      "type": "yesno", 
+      "id": "58dff5776fddd3e83e000008"
+    }, 
+    {
+      "body": "What is the mechanism of action of Pictilisib?", 
+      "type": "summary", 
+      "id": "5884fed0e56acf5176000011"
+    }, 
+    {
+      "body": "Does GATA-1 regulate ribosomal protein genes?", 
+      "type": "yesno", 
+      "id": "58e782fd3e8b6dc87c000006"
+    }, 
+    {
+      "body": "What is TOPAZ1?", 
+      "type": "summary", 
+      "id": "587d016ed673c3eb14000002"
+    }, 
+    {
+      "body": "What is the inheritance of Barth syndrome?", 
+      "type": "factoid", 
+      "id": "58d900428acda3452900000c"
+    }, 
+    {
+      "body": "What alternate indication has Vanoxerine been repositioned for?", 
+      "type": "factoid", 
+      "id": "58c9a8fe02b8c6095300002a"
+    }, 
+    {
+      "body": "List the three main structures of the cytoskeleton.", 
+      "type": "list", 
+      "id": "58e0035f6fddd3e83e000009"
+    }, 
+    {
+      "body": "Symptoms of which disorder are evaluated with the Davidson Trauma Scale?", 
+      "type": "factoid", 
+      "id": "58861d413b87a8a738000002"
+    }, 
+    {
+      "body": "How many topological associated domains are contained in the human Hox cluster?", 
+      "type": "factoid", 
+      "id": "58e793f53e8b6dc87c000008"
+    }, 
+    {
+      "body": "What is ChIPpeakAnno?", 
+      "type": "summary", 
+      "id": "587d13c0d673c3eb14000004"
+    }, 
+    {
+      "body": "Where is the TAZ (G4.5) is located in humans?", 
+      "type": "factoid", 
+      "id": "58d906b28acda3452900000d"
+    }, 
+    {
+      "body": "Is Melioidosis caused by the bacterium\u00a0Burkholderia pseudomallei?", 
+      "type": "yesno", 
+      "id": "58caf88c02b8c60953000031"
+    }, 
+    {
+      "body": "What are congenital disorders of glycosylation?", 
+      "type": "summary", 
+      "id": "58e115d66fddd3e83e00000a"
+    }, 
+    {
+      "body": "Describe ATR-16 syndrome.", 
+      "type": "summary", 
+      "id": "588623153b87a8a738000006"
+    }, 
+    {
+      "body": "What percentage of rheumatoid arthritis patients are responsive to anti-TNF therapy?", 
+      "type": "factoid", 
+      "id": "58e79e703e8b6dc87c00000a"
+    }, 
+    {
+      "body": "Which are the additions of the JASPAR 2016 open-access database of transcription factor binding profiles?", 
+      "type": "list", 
+      "id": "587d2b7efe8a08052f000003"
+    }, 
+    {
+      "body": "What is the function of the protein tafazzin?", 
+      "type": "summary", 
+      "id": "58d90b968acda3452900000e"
+    }, 
+    {
+      "body": "What condition is usually represented by the acronym SUDEP?", 
+      "type": "factoid", 
+      "id": "58dbb8968acda3452900001b"
+    }, 
+    {
+      "body": "What are assassin bugs?", 
+      "type": "summary", 
+      "id": "58e12ea66fddd3e83e00000e"
+    }, 
+    {
+      "body": "Which disease can be categorized using the Koos grading system?", 
+      "type": "factoid", 
+      "id": "5886519c3b87a8a738000007"
+    }, 
+    {
+      "body": "Are the genes for marneral biosynthesis scattered in the genome of A. thaliana?", 
+      "type": "yesno", 
+      "id": "58eb7898eda5a57672000006"
+    }, 
+    {
+      "body": "Which deep learning-based algorithms are used for enhancer prediction?", 
+      "type": "list", 
+      "id": "587d30fb31b33e8760000001"
+    }, 
+    {
+      "body": "Is diphosphatidylglycerol (cardiolipin) a phospholipid of the mitochondrial membranes?", 
+      "type": "yesno", 
+      "id": "58d90f228acda3452900000f"
+    }, 
+    {
+      "body": "Have studies shown that there is no link between DNA methylation patterns and Post Traumatic Stress Disorder?", 
+      "type": "yesno", 
+      "id": "58e2422c6fddd3e83e000011"
+    }, 
+    {
+      "body": "Is Dupilumab used for treatment of atopic dermatitis?", 
+      "type": "yesno", 
+      "id": "58df3e408acda3452900002d"
+    }, 
+    {
+      "body": "Describe clinical manifestation of the Mal de debarquement syndrome.", 
+      "type": "summary", 
+      "id": "588f9b7eed9bbee70d000003"
+    }, 
+    {
+      "body": "Where is base J found in the genome of Leishmania tarentolae?", 
+      "type": "factoid", 
+      "id": "58cf5c5a8acda34529000003"
+    }, 
+    {
+      "body": "Which tool is available for predicting regulatory interactions from ChIP-seq data?", 
+      "type": "factoid", 
+      "id": "587e0116ae05ffb474000002"
+    }, 
+    {
+      "body": "Which is the main cause of the Patau syndrome?", 
+      "type": "factoid", 
+      "id": "58da111c8acda34529000010"
+    }
+  ]
+}

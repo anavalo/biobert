@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "Is there a role of proton beam therapy in medulloblastoma treatment?", 
+      "type": "yesno", 
+      "id": "58850ac7e56acf5176000012"
+    }, 
+    {
+      "body": "Which protein complexes recognize centromeric (CEN) DNA in yeast?", 
+      "type": "list", 
+      "id": "58a71f7460087bc10a00002e"
+    }, 
+    {
+      "body": "Are there canonical marks of active chromatin in developmentally regulated genes?", 
+      "type": "yesno", 
+      "id": "588383172305cd7e21000004"
+    }, 
+    {
+      "body": "Which cells express CIDEC protein in humans?", 
+      "type": "summary", 
+      "id": "58ca746d02b8c6095300002d"
+    }, 
+    {
+      "body": "What is the function of BAX", 
+      "type": "factoid", 
+      "id": "58bde18b02b8c60953000014"
+    }, 
+    {
+      "body": "Which is the relation between coffee consumption and stroke risk?", 
+      "type": "factoid", 
+      "id": "58ce363b02b8c60953000046"
+    }, 
+    {
+      "body": "What is the purpose of the Orpington Prognostic Scale?", 
+      "type": "summary", 
+      "id": "58861f8b3b87a8a738000003"
+    }, 
+    {
+      "body": "Do IEG create a ripple effect of transcription?", 
+      "type": "yesno", 
+      "id": "58c276bc02b8c60953000020"
+    }, 
+    {
+      "body": "Which R package is used for the analysis of genome-wide DNA methylation profiles?", 
+      "type": "factoid", 
+      "id": "588f8e9794c1512c50000005"
+    }, 
+    {
+      "body": "Is butterfly rash a symptom of Systemic lupus erythematosus?", 
+      "type": "yesno", 
+      "id": "58bfeb2b02b8c6095300001a"
+    }, 
+    {
+      "body": "Do T-Cells regulate neuropathic pain?", 
+      "type": "yesno", 
+      "id": "58c0825502b8c6095300001b"
+    }, 
+    {
+      "body": "Can telomere length shortening be reversed by telomerase?", 
+      "type": "yesno", 
+      "id": "58cd675c02b8c6095300003b"
+    }, 
+    {
+      "body": "What are clinical features of the de Morsier syndrome?", 
+      "type": "list", 
+      "id": "588f952994c1512c50000007"
+    }, 
+    {
+      "body": "Which is the largest metabolic gene cluster in yeast?", 
+      "type": "factoid", 
+      "id": "58d0dc878acda34529000004"
+    }, 
+    {
+      "body": "Is there any involvement of the long non-coding RNA Gomafu in schizophrenia?", 
+      "type": "yesno", 
+      "id": "588fbedced9bbee70d000007"
+    }, 
+    {
+      "body": "Which are the main brain dysfunctions caused by hyperbilirubinemia?", 
+      "type": "summary", 
+      "id": "58c66a4b02b8c60953000025"
+    }, 
+    {
+      "body": "What is the incidence of new cases of X-linked adrenoleukodystrophy (ALD) in Australian and New Zealand in the late 1990's?", 
+      "type": "factoid", 
+      "id": "58cc5bae02b8c60953000037"
+    }, 
+    {
+      "body": "Is ABCE1 involved in ribosomal recycling?", 
+      "type": "yesno", 
+      "id": "58ce5a1602b8c60953000049"
+    }, 
+    {
+      "body": "Describe Exploding head syndrome.", 
+      "type": "summary", 
+      "id": "588f9756ed9bbee70d000001"
+    }, 
+    {
+      "body": "How are looped genes identified in yest?", 
+      "type": "summary", 
+      "id": "58d4d7578acda34529000007"
+    }, 
+    {
+      "body": "What is REVIGO?", 
+      "type": "summary", 
+      "id": "5891c754621ea6ff7e000011"
+    }, 
+    {
+      "body": "Which are the typical symptoms of M\u00e9ni\u00e8re's disease?", 
+      "type": "list", 
+      "id": "58c6a6c502b8c60953000027"
+    }, 
+    {
+      "body": "What are Degrons?", 
+      "type": "summary", 
+      "id": "58cdbaf302b8c60953000044"
+    }, 
+    {
+      "body": "List metalloenzyme inhibitors.", 
+      "type": "list", 
+      "id": "58ce5c7c1f5fb2b734000001"
+    }, 
+    {
+      "body": "Which gene is mutated in the Karak syndrome?", 
+      "type": "factoid", 
+      "id": "588f9950ed9bbee70d000002"
+    }, 
+    {
+      "body": "Which proteins remove H2A.Z in the yeast Saccharomyces cerevisiae?", 
+      "type": "list", 
+      "id": "58de71fa8acda3452900002c"
+    }, 
+    {
+      "body": "Are there methods for generating highly multiplexed ChIP-seq libraries?", 
+      "type": "yesno", 
+      "id": "589206fc49702f2e01000003"
+    }, 
+    {
+      "body": "Which diseases are associated with Primary intestinal lymphangiectasia (PIL)?", 
+      "type": "list", 
+      "id": "58ca6d3902b8c6095300002c"
+    }, 
+    {
+      "body": "Is there a relationship between B cells and Multiple Sclerosis?", 
+      "type": "yesno", 
+      "id": "58c0836102b8c6095300001c"
+    }, 
+    {
+      "body": "Which disease is associated with mutated Sox2?", 
+      "type": "factoid", 
+      "id": "58ce9bf1d46b5c2951000002"
+    }, 
+    {
+      "body": "What is the mechanism of action of onartuzumab?", 
+      "type": "summary", 
+      "id": "5890dcba621ea6ff7e000003"
+    }, 
+    {
+      "body": "Is the mouse Sry gene locus free of repetitive sequences?", 
+      "type": "yesno", 
+      "id": "58de34608acda3452900002b"
+    }, 
+    {
+      "body": "Is Meis1 implicated in microphthalmia?", 
+      "type": "yesno", 
+      "id": "5892783d49702f2e01000004"
+    }, 
+    {
+      "body": "Does oculocutaneous albinism show an autosomal recessive inheritance?", 
+      "type": "yesno", 
+      "id": "58cbb55402b8c60953000033"
+    }, 
+    {
+      "body": "List 3 indications for Bupropion", 
+      "type": "list", 
+      "id": "58c1b2f702b8c6095300001e"
+    }, 
+    {
+      "body": "Is the enzyme EPRS phosphorylated?", 
+      "type": "yesno", 
+      "id": "58cd522902b8c60953000038"
+    }, 
+    {
+      "body": "Can Pentraxin 3 predict outcomes of sepsis?", 
+      "type": "yesno", 
+      "id": "5890eb22621ea6ff7e000006"
+    }, 
+    {
+      "body": "Which polymerase transcribes pri-miRNAs?", 
+      "type": "factoid", 
+      "id": "589d965a78275d0c4a000049"
+    }, 
+    {
+      "body": "What is the role of Lysine 2-hydroxyisobutyrylation?", 
+      "type": "summary", 
+      "id": "589474467d9090f353000006"
+    }, 
+    {
+      "body": "Which mutated enzyme is responsible for oculocutaneous 1 (OCA1)-type albinism?", 
+      "type": "factoid", 
+      "id": "58cbb98c02b8c60953000034"
+    }, 
+    {
+      "body": "Please list 2 treatments for a torn roator cuff", 
+      "type": "list", 
+      "id": "58c99acf02b8c60953000028"
+    }, 
+    {
+      "body": "List diseases associated with the  Dopamine Receptor D4 (DRD4).", 
+      "type": "list", 
+      "id": "58cd59cb02b8c60953000039"
+    }, 
+    {
+      "body": "What is the role of Laser Interstitial Thermal Therapy in glioma treatment?", 
+      "type": "summary", 
+      "id": "5890f4ab621ea6ff7e000008"
+    }, 
+    {
+      "body": "Which protein mediates the replacement of H2A by H2A.Z in the yeast Saccharomyces cerevisiae?", 
+      "type": "factoid", 
+      "id": "58a6db8660087bc10a00002c"
+    }, 
+    {
+      "body": "Which are the key players on radial glial specification to ependymal cells?", 
+      "type": "list", 
+      "id": "58948cb47d9090f353000008"
+    }, 
+    {
+      "body": "Is ocular melanosis a risk factor for uveal melanoma?", 
+      "type": "yesno", 
+      "id": "58b5320e22d3005309000002"
+    }, 
+    {
+      "body": "What does the human ABCC gene  product do?", 
+      "type": "factoid", 
+      "id": "58c99fcc02b8c60953000029"
+    }, 
+    {
+      "body": "What is known about telomere length shortening and stress?", 
+      "type": "summary", 
+      "id": "58cd633c02b8c6095300003a"
+    }, 
+    {
+      "body": "What fruit causes Jamaican vomiting sickness?", 
+      "type": "factoid", 
+      "id": "5895f7e978275d0c4a000001"
+    }, 
+    {
+      "body": "Are Ultra-conserved elements (UCEs) enriched in segmental duplications?", 
+      "type": "yesno", 
+      "id": "58a71bb960087bc10a00002d"
+    }, 
+    {
+      "body": "What is the applicability of the MCAST algorithm?", 
+      "type": "summary", 
+      "id": "5895f75aad49cff847000001"
+    }, 
+    {
+      "body": "Which ApoE isoform is associated with atherosclerosis and Alzheimer's disease?", 
+      "type": "factoid", 
+      "id": "58b6cd3222d300530900000d"
+    }, 
+    {
+      "body": "What organism causes woolsorter's disease", 
+      "type": "factoid", 
+      "id": "58caf0be02b8c6095300002f"
+    }, 
+    {
+      "body": "Do normal cells express the protein TERT?", 
+      "type": "yesno", 
+      "id": "58cd6d9702b8c6095300003c"
+    }, 
+    {
+      "body": "Is siltuximab effective for Castleman disease?", 
+      "type": "yesno", 
+      "id": "5896d3e278275d0c4a000012"
+    }, 
+    {
+      "body": "What is the function of yeast Clr4 on chromatin?", 
+      "type": "summary", 
+      "id": "58ab1e19396a458e5000000f"
+    }, 
+    {
+      "body": "What is the role of LIMT lncRNA?", 
+      "type": "summary", 
+      "id": "5896381a78275d0c4a00000a"
+    }, 
+    {
+      "body": "Is infertility characteristic of individuals with Fanconi anemia?", 
+      "type": "yesno", 
+      "id": "58b6d26122d300530900000e"
+    }, 
+    {
+      "body": "What are Kupffer cells and what is their role?", 
+      "type": "summary", 
+      "id": "58cdb38f02b8c60953000041"
+    }, 
+    {
+      "body": "What is known about saponins in crops and human consumption?", 
+      "type": "summary", 
+      "id": "58cd729502b8c6095300003d"
+    }, 
+    {
+      "body": "Is golimumab effective for ulcerative colitis?", 
+      "type": "yesno", 
+      "id": "5896e4d478275d0c4a000015"
+    }, 
+    {
+      "body": "What is the role of histone variant H2A.W?", 
+      "type": "summary", 
+      "id": "58ab1f209ef3c34033000001"
+    }, 
+    {
+      "body": "Does mTOR regulate the translation of MAPKAPK2?", 
+      "type": "yesno", 
+      "id": "58967c9978275d0c4a000011"
+    }, 
+    {
+      "body": "Which bacteria cause diphtheria?", 
+      "type": "list", 
+      "id": "58b548d722d3005309000005"
+    }, 
+    {
+      "body": "What chromosome is affected in Turner's syndrome?", 
+      "type": "factoid", 
+      "id": "58bca2f302b8c6095300000c"
+    }, 
+    {
+      "body": "What is the aim of the TRAP assay?", 
+      "type": "factoid", 
+      "id": "58cd7af402b8c6095300003e"
+    }, 
+    {
+      "body": "Describe clinical applications of the PIM2 scoring system.", 
+      "type": "summary", 
+      "id": "589a245678275d0c4a000023"
+    }, 
+    {
+      "body": "Do histone variant mH2A (macro-H2A) levels decrease upon differentiation?", 
+      "type": "yesno", 
+      "id": "58ab1f6c9ef3c34033000002"
+    }, 
+    {
+      "body": "Which annotated database of A-to-I RNA editing is available?", 
+      "type": "factoid", 
+      "id": "587e1a01fc7e8dd84f000001"
+    }, 
+    {
+      "body": "Could divalent metal transporter 1 deficiency lead to anemia?", 
+      "type": "yesno", 
+      "id": "58bd672d02b8c60953000011"
+    }, 
+    {
+      "body": "Does the hERG gene code for a protein which is part of a sodium channel?", 
+      "type": "yesno", 
+      "id": "58bdc76102b8c60953000013"
+    }, 
+    {
+      "body": "What is the function of calcium-sensing receptor (CaSR)?", 
+      "type": "factoid", 
+      "id": "58cd7fed02b8c6095300003f"
+    }, 
+    {
+      "body": "Is lenvatinib effective for renal cell carcinoma?", 
+      "type": "yesno", 
+      "id": "589a245778275d0c4a000024"
+    }, 
+    {
+      "body": "Which proteins form part of the NRD complex in S. cerevisiae?", 
+      "type": "list", 
+      "id": "58adb9919ef3c34033000004"
+    }, 
+    {
+      "body": "Which R / bioconductor package is used for performing SNP enrichment analysis?", 
+      "type": "factoid", 
+      "id": "587e3129c32c812009000002"
+    }, 
+    {
+      "body": "Which disease is associated with mutations in SLC40A1 gene?", 
+      "type": "summary", 
+      "id": "58bd6c5802b8c60953000012"
+    }, 
+    {
+      "body": "Does Yersinia pestis causes a respiratory infection?", 
+      "type": "yesno", 
+      "id": "58caf86f02b8c60953000030"
+    }, 
+    {
+      "body": "Does HuR bind to the untranslated regions (UTRs) of mRNAs?", 
+      "type": "yesno", 
+      "id": "58ce69cd1f5fb2b734000003"
+    }, 
+    {
+      "body": "List drug that were evaluated in the CHAMP trial for migraine.", 
+      "type": "list", 
+      "id": "589a245a78275d0c4a000026"
+    }, 
+    {
+      "body": "Is H4K20 methylation associated with DNA replication?", 
+      "type": "yesno", 
+      "id": "58adbe999ef3c34033000005"
+    }, 
+    {
+      "body": "What is LedPred?", 
+      "type": "summary", 
+      "id": "587e392d2420191125000001"
+    }, 
+    {
+      "body": "What is the connection between furin and hepcidin?", 
+      "type": "summary", 
+      "id": "58bebc4c02b8c60953000015"
+    }, 
+    {
+      "body": "What is Beh\u00e7et's disease", 
+      "type": "summary", 
+      "id": "58cb305c02b8c60953000032"
+    }, 
+    {
+      "body": "What is the role of IL-18BP?", 
+      "type": "factoid", 
+      "id": "58cd90c202b8c60953000040"
+    }, 
+    {
+      "body": "Describe crowned dens syndrome.", 
+      "type": "summary", 
+      "id": "589a245e78275d0c4a000029"
+    }, 
+    {
+      "body": "Which protein mediates gene loop formation in the yeast S. cerevisiae?", 
+      "type": "factoid", 
+      "id": "58adc1ff9ef3c34033000006"
+    }, 
+    {
+      "body": "Does CRISPR inversion of CTCF sites alter genome topology?", 
+      "type": "yesno", 
+      "id": "587e440f2420191125000005"
+    }, 
+    {
+      "body": "Which are the causes of the Koebner phenomenon?", 
+      "type": "list", 
+      "id": "58bfcb8702b8c60953000016"
+    }, 
+    {
+      "body": "What is the function of the DGAT1 gene product?", 
+      "type": "summary", 
+      "id": "58cbf1f402b8c60953000036"
+    }, 
+    {
+      "body": "Which disease(s) are caused by HEX A deficiency?", 
+      "type": "summary", 
+      "id": "58cea0768acda34529000001"
+    }, 
+    {
+      "body": "Which two drugs were compared in the ARISTOTLE Trial?", 
+      "type": "list", 
+      "id": "589a246178275d0c4a00002b"
+    }, 
+    {
+      "body": "Which histone mutation is associated with gliomas?", 
+      "type": "factoid", 
+      "id": "58bac71222d3005309000013"
+    }, 
+    {
+      "body": "What is the purpose of HaploReg v4?", 
+      "type": "summary", 
+      "id": "587f60f892a5b8ad44000004"
+    }, 
+    {
+      "body": "Which virus type causes Molluscum contagiosum?", 
+      "type": "factoid", 
+      "id": "58bfd0db02b8c60953000017"
+    }, 
+    {
+      "body": "What tissue is most affected in Ehlers-Danlos syndromes?", 
+      "type": "factoid", 
+      "id": "58cdb41302b8c60953000042"
+    }, 
+    {
+      "body": "What is Mondor's disease?", 
+      "type": "summary", 
+      "id": "589a246778275d0c4a00002f"
+    }, 
+    {
+      "body": "How are immediate early genes (IEG) defined?", 
+      "type": "summary", 
+      "id": "58c2556302b8c6095300001f"
+    }, 
+    {
+      "body": "Which library is used for fixed-length approximate string matching?", 
+      "type": "factoid", 
+      "id": "587f7a69d8d850a152000001"
+    }, 
+    {
+      "body": "Which disease the skin condition Necrobiosis lipoidica diabeticorum is associated to?", 
+      "type": "factoid", 
+      "id": "58bfd8e902b8c60953000018"
+    }, 
+    {
+      "body": "Is Doxorubicin cardiotoxic?", 
+      "type": "yesno", 
+      "id": "58cdb80302b8c60953000043"
+    }
+  ]
+}
